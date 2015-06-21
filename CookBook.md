@@ -1,6 +1,6 @@
 ## Data fields in averages.txt
-## The output of the R script is the averages of the below mean & std variable from
-## the test and train data sets for each of the subjects and activities
+ The output of the R script is the averages of the below mean & std variable from
+ the test and train data sets for each of the subjects and activities
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
