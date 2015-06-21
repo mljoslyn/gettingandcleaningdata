@@ -4,7 +4,7 @@
 
 run_analysis.R  - R script to generate a data set containing the averages of the means and std variables
                   from the test and train data files.  This script performs the following:
-                  - reads in the data files for the Human Activity Recognition Using Smartphones Data Set
+                  * reads in the data files for the Human Activity Recognition Using Smartphones Data Set
                   - Combines both the test and training data into one data set
                   - Extracts the mena and standard deviation fields
                   - Calculates the averages of eahc of the means and standard deviation variable for each
